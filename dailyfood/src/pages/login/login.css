@@ -1,0 +1,44 @@
+.loginC{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.loginC form{
+    padding: 10px 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.loginC p{
+    font-size: 23px;
+}
+
+.loginC input{
+    margin-top:10px;
+    margin-left: 7px;
+    outline: none;
+    border-radius: 5px;
+    border-top: none;
+    text-align: center;
+}
+
+.loginC button{
+    border-radius: 5px;
+    background-color: rgb(37, 14, 14);
+    color:#fff;
+    margin-top:10px;
+
+}
+
+
+.loginL{
+    background-color: #fff;
+}
+
+.loginC img{
+    width: 35px;
+    height: 35px;
+}
+

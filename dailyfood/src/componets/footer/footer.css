@@ -1,0 +1,23 @@
+.Footer{
+    text-align: center;
+    background-color:rgb(37, 14, 14) ;
+
+    padding: 12px 5px;
+    border-radius: 20px 20px 0px 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.Footer p{
+    color:#fff;
+    margin: 0%;
+    padding: 3px 5px;
+    border-radius: 5px;
+
+}
+
+.Footer img{
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,48 @@
+.title, .login{
+    background-color: rgb(37, 14, 14);
+    border-radius: 3px;
+    text-align: center;
+    padding: 5px 10px;
+  }
+
+  .weeks{
+    box-shadow: 2px 2px 2px 1px #000;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px 10px;
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+  }
+
+  .bar{
+    background-color: rgb(37, 14, 14);
+    height: 3px;
+    margin-bottom: 2px;
+  }
+
+  .title img{
+    width: 20px;
+    height: 20px;
+  }
+  
+  .weeks a{
+    margin-left: 5px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 0% 10px;
+    transition: 800ms;
+    color: #000 !important;
+  }
+  
+  .weeks a:hover{
+    background-color: #fff;
+    color: rgb(4, 162, 248);
+    padding: 0% 20px;
+    box-shadow: 2px 2px 2px 1px #000;
+  }
+  
+  .title a,.login a{
+    color: #fff;
+    text-decoration-color: #fff;
+  }

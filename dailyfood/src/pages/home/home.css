@@ -1,0 +1,24 @@
+.carousel-caption{
+    background: rgba(255, 255, 255, 0.555);
+    border-radius: 5px;
+  }
+  .carousel-caption p, .carousel-caption h3{
+    color:#000;
+  }
+  
+  .information p{
+   margin-top: 10px;
+  }
+  .informationDown p{
+    text-align: center;
+  }
+  
+  
+  
+  .carousel, .carousel img{
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+  }

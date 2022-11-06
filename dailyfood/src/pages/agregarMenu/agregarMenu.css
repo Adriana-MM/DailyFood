@@ -1,0 +1,47 @@
+
+
+.formulario{
+    margin-top: 10px;
+    
+}
+
+.formulario form{
+    padding: 10px 15px;
+    border: 1px solid rgb(37, 14, 14);
+    border-radius: 5px;
+}
+
+.formulario input[type="submit"]{
+    width: 120px;
+    margin-top: 10px;
+    background-color: rgb(37, 14, 14);
+    color: #fff;
+    border-radius: 5px;
+}
+
+.formulario input[type="text"]{
+    outline: none;
+    border-top: none;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.formulario p{
+    border: 1px solid rgb(37, 14, 14);
+    margin: 0%;
+    border-radius:5px;
+    border-bottom: none;
+    background-color: rgb(37, 14, 14);
+    color: #fff;
+}
+
+.formulario input[type="number"]{
+    outline: none;
+    border-top: none;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

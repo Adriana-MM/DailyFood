@@ -1,0 +1,35 @@
+.precio{
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: 1px solid rgb(37, 14, 14);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.precio p{
+    margin:0%;
+}
+
+.resumen{
+    border: 1px solid rgb(37, 14, 14);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.resumen table{
+    border: 1px solid rgb(37, 14, 14);
+    width: 50%;
+    text-align: center;
+    margin: 0%;
+    margin: auto;
+}
+
+.resumen table thead{
+    background-color: rgb(37, 14, 14);
+    color:rgb(37, 14, 14);
+}
+
+.resumen table tr{
+    border: 1px solid rgb(37, 14, 14);
+}
